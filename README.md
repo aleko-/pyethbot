@@ -48,6 +48,9 @@ Load one of the addresses with ether:
     0.0
     0.0
     1.05010391
+
+Distribute ether:
+
     >>> mb.distribute_eth()
     >>> mb.show_balances()
     0.209991382
@@ -55,6 +58,9 @@ Load one of the addresses with ether:
     0.209991382
     0.209991382
     0.209550382
+
+Consolidate ether:
+
     >>> mb.consolidate_eth()
     >>> mb.show_balances()
     1.04892791
