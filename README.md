@@ -1,7 +1,7 @@
 # pyethbot
 ----
 
-pyethbot abstracts the web3py library to allows for quicker wallet management.
+pyethbot abstracts the web3py library for easier wallet management.
 
 # current functionality
 ----
